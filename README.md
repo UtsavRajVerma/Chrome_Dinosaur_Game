@@ -2,7 +2,7 @@
 The Chrome dino game is a simple infinite runner, which sees you jump over obstracles. Controls are basic. 
 
 <p>
-  Press space to jump.</p>
+  **Press space to jump.** </p>
 
 The goal is to survive for as long as humanly *(or dinosaurly)* possible!
 
