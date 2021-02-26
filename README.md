@@ -1,4 +1,4 @@
-# Chrome_Dinosaur_Game
+# ChromeDinosaurGame
 The Chrome dino game is a simple infinite runner, which sees you jump over obstracles. Controls are basic. 
 
   ***Press SPACE to jump.***
